@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: 3045341b15b51644cbfc416aba908389
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: davomon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 218.5, y: 6.5}
+        - {x: 218.5, y: 138.5}
+        - {x: 266.5, y: 138.5}
+        - {x: 266.5, y: 6.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f877a91dad2598a44a625113637d8b42
+      internalID: -1837798565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4201dd060f4ed764abf71c122d7bcbc0
+      internalID: -54280124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651015c2d6464bb48889e24fa4186689
+      internalID: -1919564071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370b4dadcf4cffb4595e3495339ae470
+      internalID: 1974362945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdaa4e3031fc804fa53a1cf23dbda31
+      internalID: -2100537393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b6820167986e42b4a1782c0550c6c
+      internalID: 114219900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53afb0888dc6d7c42bc4d2e61a8d0d11
+      internalID: 608855962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673d2d96ce5f99f4c9c86bdf3136328c
+      internalID: 1155197677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1fa48495dd38e4c8d3d6e8701d6fa1
+      internalID: 38779068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d948f7fc592614caae16a325b92f31
+      internalID: 1607504196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a15c8020d38df41a08acf9d369c472
+      internalID: -1946156763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b320baf22c23e428eb2813bfe4ab84
+      internalID: -2013606225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_12
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 453
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da2525494868b048973a54e8f403c90
+      internalID: 823709441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05887071f3ad6234dbd75583a6b449a8
+      internalID: 1838662572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ecd3474d618e42bb167f2a537a0fd
+      internalID: -1560808316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322dd256d4077a24ebf33a85d59e8834
+      internalID: -200747951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d92195075d7d49a804744b4c07f04
+      internalID: 1070847242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_17
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fc141f71e47e640ac687f432efce8e
+      internalID: 480656519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_18
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655cf79ea5eae44ea6630d0c3bdf5ad
+      internalID: -712736275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce5cfbc719627e46988640df6d5a55d
+      internalID: -857570055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_20
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2a960ef9457f440b334a98ee4b68a9
+      internalID: 2033310127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_21
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3309bbab8fcb440428a0d8088113aa34
+      internalID: -1486619851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_22
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd3d5bbb2896447927a27a7927228b
+      internalID: 1552820122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_23
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 302
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa42a467a10df408925ee18a9829eb
+      internalID: -196248257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_24
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85bb611a577d3343b290364cf384242
+      internalID: -958938490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_25
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 303
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e32a5f036e42c04f9371b32cd5a7d52
+      internalID: 189694409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9539ee4396dcdb46ba6f520d889097a
+      internalID: -1552985911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31686162a36756444a2b708b1977a054
+      internalID: -40247176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7c4c600a5355e48b6e5bc6101f45ec
+      internalID: -2070430313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951e6d7b10816b4bb1d994c92b951d5
+      internalID: -280507060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_30
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954718b9ac84ae9478569f2d7484597f
+      internalID: 1774765811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c7d8a4c448e1147998d5d343568403
+      internalID: -572374490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_32
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c252dd71f30d61e48bd94bc5a845d01e
+      internalID: -1882346343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_33
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458badf183c79944ea928d083cca0b93
+      internalID: -2055957063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78b24c1391bf94a8ce6a0d8139bce8
+      internalID: -317418714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_35
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad0ef88666f044a82756aa41daec85
+      internalID: -2044970547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_36
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0cc24a9a1ac1842b54a5b90bb039e9
+      internalID: -1340691069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_37
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bc061945e75fe458bd44fd52421030
+      internalID: 553753231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_38
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 153
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d561d917dcc75014eae9e1ff5d8b55d9
+      internalID: 1082987415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0c498069ca884594a417e38fa4225
+      internalID: -1865716734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_40
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af2ba495a63fd046a7b51330453fe67
+      internalID: -550634466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac57fd1cfc713045b270a268af79aea
+      internalID: 1834754047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_42
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6189d8c536ee94eb5f0324a1c3ad23
+      internalID: 881730390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850e2833accf6e4d96e8fa94aa67bec
+      internalID: -110499268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d3aa0ac8857264886c049dca5df1b8
+      internalID: -247831536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_45
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e92ff4516d9e49b8d030463c64238
+      internalID: -1946341870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_46
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799cabc53f7030f4a8dca7906eb87b04
+      internalID: 65336364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_47
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7fd02a66d2964e9f96c0f7ab62554
+      internalID: -159124596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_48
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3991065bce368a9409b7b85ef0943276
+      internalID: 130738316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_49
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb4364edd171344a70a4370aa015e6
+      internalID: 210390219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_50
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecfef4f03becaa4dbdd563dd258b3b1
+      internalID: -921844909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: davomon_51
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3
+        width: 61
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9058c4f47b700a4db6e6a4767533fe2
+      internalID: -585100558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      davomon_29: -280507060
+      davomon_47: -159124596
+      davomon_25: 189694409
+      davomon_16: 1070847242
+      davomon_3: 1974362945
+      davomon_34: -317418714
+      davomon_6: 608855962
+      davomon_0: -1837798565
+      davomon_13: 1838662572
+      davomon_48: 130738316
+      davomon_11: -2013606225
+      davomon_12: 823709441
+      davomon_2: -1919564071
+      davomon_23: -196248257
+      davomon_38: 1082987415
+      davomon_43: -110499268
+      davomon_5: 114219900
+      davomon_35: -2044970547
+      davomon_8: 38779068
+      davomon_51: -585100558
+      davomon_27: -40247176
+      davomon_20: 2033310127
+      davomon_33: -2055957063
+      davomon_24: -958938490
+      davomon_26: -1552985911
+      davomon_7: 1155197677
+      davomon_22: 1552820122
+      davomon_14: -1560808316
+      davomon_28: -2070430313
+      davomon_18: -712736275
+      davomon_40: -550634466
+      davomon_44: -247831536
+      davomon_39: -1865716734
+      davomon_45: -1946341870
+      davomon_9: 1607504196
+      davomon_17: 480656519
+      davomon_1: -54280124
+      davomon_15: -200747951
+      davomon_10: -1946156763
+      davomon_46: 65336364
+      davomon_30: 1774765811
+      davomon_32: -1882346343
+      davomon_4: -2100537393
+      davomon_21: -1486619851
+      davomon_42: 881730390
+      davomon_31: -572374490
+      davomon_37: 553753231
+      davomon_41: 1834754047
+      davomon_19: -857570055
+      davomon_36: -1340691069
+      davomon_49: 210390219
+      davomon_50: -921844909
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
